@@ -1,5 +1,6 @@
 # fireworks
 
+*example.png is provided as a glimpse of what the script will do
 
 
 ## Getting Started 
