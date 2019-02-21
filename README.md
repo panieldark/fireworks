@@ -1,6 +1,6 @@
 # fireworks
 
-![](https://giphy.com/gifs/5tq9PgpyQbwrPwX2wT)
+![Example of fireworks](example.gif)
 
 
 ## Getting Started 
