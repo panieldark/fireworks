@@ -1,6 +1,6 @@
 # fireworks
 
-
+<iframe src="https://giphy.com/embed/5tq9PgpyQbwrPwX2wT" width="480" height="358" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5tq9PgpyQbwrPwX2wT">via GIPHY</a></p>
 
 
 ## Getting Started 
