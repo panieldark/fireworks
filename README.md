@@ -9,7 +9,7 @@
 3. Run index.html on your preferred web browser
 
 ## Acknowledgements/Other
-This is my fork of CodingTrain's (youtube <- The Coding Train) Coding Challenge. I recommend checking his videos out!
+This is my fork of CodingTrain's (youtube <- The Coding Train) Coding Challenge.
 
 ###Takeaways from this experience
 1. First sole JavaScript project (not fully intertwined with HTML/CSS or React/Angular)
